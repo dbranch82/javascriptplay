@@ -1,17 +1,14 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<meta charset="utf-8" />
+		<script type="text/javascript" src="javascript/gangsta.js"></script>
 		<title>My Javascript playground</title>
-
+	</head>
+	<body>
 		<form> <input type="text" name="name">
 			<button type="button" onclick="alert()">Touch Me</button>
 		</form>
 
-
-		<script type="text/javascript" src="gangsta.js"></script>
-	</head>
-	<body>
 		<p><img src="image/gangsta.png" alt="gangsta">
 		</p>
 		<p>Mammasay mammasa mamma oo sa posuere shiznit bizzle. Phasellus a fo shizzle ut nibh away tincidunt. Maecenizzle mofo mammasay mammasa mamma oo sa. Doggy in shut the shizzle up sizzle i'm in the shizzle elementum tristique. Nunc break yo neck, yall tortizzle sizzle crunk sheezy crackalackin shizzlin dizzle. In velit tortor, ultricies izzle, bling bling quis, adipiscing quizzle, daahng dawg.
